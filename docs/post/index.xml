@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Brno</title>
-    <link>http://darbak.github.io/Hugo-start/</link>
-    <description>Recent content in Home on Brno</description>
+    <title>Archive on Brno</title>
+    <link>http://darbak.github.io/Hugo-start/post/</link>
+    <description>Recent content in Archive on Brno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Wed, 28 Mar 2018 16:05:46 +0200</lastBuildDate>
     
-	<atom:link href="http://darbak.github.io/Hugo-start/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://darbak.github.io/Hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -39,16 +39,6 @@
       <guid>http://darbak.github.io/Hugo-start/post/welcome-to-hugo/</guid>
       <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://darbak.github.io/Hugo-start/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://darbak.github.io/Hugo-start/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
     </item>
     
   </channel>

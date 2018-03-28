@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://darbak.github.io/Hugo-start/</loc>
+    <loc>http://darbak.github.io/Hugo-start/post/clanek/</loc>
+    <lastmod>2018-03-28T16:05:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/post/another-post/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/post/welcome-to-hugo/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/post/</loc>
+    <lastmod>2018-03-28T16:05:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/tags/beatles/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,7 +38,37 @@
   </url>
   
   <url>
+    <loc>http://darbak.github.io/Hugo-start/tags/data/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/tags/hello-world/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/</loc>
+    <lastmod>2018-03-28T16:05:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/tags/hugo/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://darbak.github.io/Hugo-start/tags/start/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://darbak.github.io/Hugo-start/tags/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
