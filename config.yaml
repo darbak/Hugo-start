@@ -1,5 +1,5 @@
 title: My New Hugo Site
-baseURL: http://darbak.github.io/hugo-start/
+baseURL: http://darbak.github.io/Hugo-start/
 languageCode: cs-cz
 publishDir: docs
 
