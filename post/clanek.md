@@ -1,7 +1,7 @@
 ---
 title: "Clanek"
 date: 2018-03-28T16:05:46+02:00
-draft: false
+
 ---
 
    
